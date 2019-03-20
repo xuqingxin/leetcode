@@ -6,4 +6,4 @@ LeetCode在国外很受欢迎，现在国内有一个翻版网站[力扣](https:
 ## LeetCode Algorithms
 |#|Problem|Solution|Difficulty|
 |-|-|-|-|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C#](https://github.com/xuqingxin/leetcode/algorithms/0001-Two.Sum.md)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C#](https://github.com/xuqingxin/leetcode/blob/master/Algorithms/0001-Two.Sum.md)|Easy|
