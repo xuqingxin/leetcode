@@ -8,3 +8,4 @@ LeetCode在国外很受欢迎，现在国内有一个翻版网站[力扣](https:
 |-|-|-|-|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C#](https://github.com/xuqingxin/leetcode/blob/master/Algorithms/0001-Two.Sum.md)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C#](https://github.com/xuqingxin/leetcode/blob/master/Algorithms/0002-Add.Two.Numbers.md)|Medium|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[C#](https://github.com/xuqingxin/leetcode/blob/master/Algorithms/0003-Longest.Substring.Without.Repeating.Characters.md)|Medium|
