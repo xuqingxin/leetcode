@@ -7,3 +7,4 @@ LeetCode在国外很受欢迎，现在国内有一个翻版网站[力扣](https:
 |#|Problem|Solution|Difficulty|
 |-|-|-|-|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C#](https://github.com/xuqingxin/leetcode/blob/master/Algorithms/0001-Two.Sum.md)|Easy|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C#](https://github.com/xuqingxin/leetcode/blob/master/Algorithms/0002-Add.Two.Numbers.md)|Medium|
