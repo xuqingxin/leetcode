@@ -54,4 +54,4 @@ public int LengthOfLongestSubstring(string s)
 
     return maxLength;
 }
-```C#
+```
