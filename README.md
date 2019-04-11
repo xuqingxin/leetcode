@@ -10,3 +10,5 @@ LeetCode在国外很受欢迎，现在国内有一个翻版网站[力扣](https:
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C#](https://github.com/xuqingxin/leetcode/blob/master/Algorithms/0002-Add.Two.Numbers.md)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[C#](https://github.com/xuqingxin/leetcode/blob/master/Algorithms/0003-Longest.Substring.Without.Repeating.Characters.md)|Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[C#](https://github.com/xuqingxin/leetcode/blob/master/Algorithms/0004-Median.Of.Two.Sorted.Arrays.md)|Hard|
+|5|[Longest.Palindromic.Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[C#](https://github.com/xuqingxin/leetcode/blob/master/Algorithms/0005-Longest.Palindromic.Substring.md)|Medium|
+|6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[C#](https://github.com/xuqingxin/leetcode/blob/master/Algorithms/0006-ZigZag.Conversion.md)|Medium|
