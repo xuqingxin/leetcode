@@ -14,19 +14,19 @@ E   D   H   N
 
 string convert(string s, int numRows);
 
-示例 1:
+**示例 1:**
 
-输入: s = "LEETCODEISHIRING", numRows = 3
+    输入: s = "LEETCODEISHIRING", numRows = 3
 
-输出: "LCIRETOESIIGEDHN"
+    输出: "LCIRETOESIIGEDHN"
 
-示例 2:
+**示例 2:**
 
-输入: s = "LEETCODEISHIRING", numRows = 4
+    输入: s = "LEETCODEISHIRING", numRows = 4
 
-输出: "LDREOEIIECIHNTSG"
+    输出: "LDREOEIIECIHNTSG"
 
-解释:
+    解释:
 <pre><code>
 L     D     R
 E   O E   I I
