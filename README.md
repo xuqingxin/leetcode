@@ -14,3 +14,4 @@ LeetCode在国外很受欢迎，现在国内有一个翻版网站[力扣](https:
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[C#](https://github.com/xuqingxin/leetcode/blob/master/Algorithms/0006-ZigZag.Conversion.md)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C#](https://github.com/xuqingxin/leetcode/blob/master/Algorithms/0007-Reverse.Integer.md)|Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[C#](https://github.com/xuqingxin/leetcode/blob/master/Algorithms/0008-String.to.Integer.(atoi).md)|Medium|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C#](https://github.com/xuqingxin/leetcode/blob/master/Algorithms/0009-Palindrome.Number.md)|Easy|
